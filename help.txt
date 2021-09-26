@@ -1,0 +1,12 @@
+start server
+cd django_try/
+python manage.py runserver
+Sever address
+http://127.0.0.1:8000
+http://127.0.0.1:8000/admin/
+Create suadmin
+python manage.py createsuperuser
+Github
+https://github.com/sunrised232/django_try.git
+Site
+sunrised232.pythonanywhere.com
