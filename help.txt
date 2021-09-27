@@ -10,3 +10,5 @@ Github
 https://github.com/sunrised232/django_try.git
 Site
 sunrised232.pythonanywhere.com
+CSS:
+http://htmlbook.ru/
